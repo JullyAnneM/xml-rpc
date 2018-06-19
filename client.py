@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import xmlrpclib
-import timeit
+import time
 
 def main():
     print "Esse eh o cliente!" 
@@ -12,17 +12,32 @@ def main():
     valor = int(10)
 
     #variaveis para metodos EnviaLongRecebeLong e EnviaLong8RecebeLong
-    x = 10
-    y = 20
-    z = 30
-    w = 40
-    a = 50
-    b = 60 
-    c = 70
-    d = 85
-    print "EnviaIntRecebeInt:",client.EnviaIntRecebeInt(valor),"rodou em",timeit(timeit.Timer(EnviaIntRecebeInt(valor))
-    print "EnviaLongRecebeLong:",client.EnviaLongRecebeLong(x),"rodou em",timeit(timeit.Timer(EnviaLongRecebeLong(x))
-    print "EnviaLong8RecebeLong:",client.EnviaLong8RecebeLong(x,y,z,w,a,b,c,d),"rodou em",timeit(timeit.Timer(EnviaLong8RecebeLong(x,y,z,w,a,b,c,d))
+    x = long(10)
+    y = long(20)
+    z = long(30)
+    w = long(40)
+    a = long(50)
+    b = long(60)
+    c = long(70)
+    d = long(85)
+    
+    #printa resultados e tempo de execucao
+    start_time = time.time()
+    result1 = client.EnviaIntRecebeInt(valor)
+    end_time = time.time()
+    print "EnviaIntRecebeInt resultou em:",result1,"e rodou em",end_time-start_time
+    
+    start_time = time.time()
+    result2 = client.EnviaLongRecebeLong(x)
+    end_time = time.time()
+    print "EnviaLongRecebeLong resultou em:",result2,"e rodou em",end_time-start_time
+
+    
+    start_time = time.time()
+    result3 = client.EnviaLong8RecebeLong(x,y,z,w,a,b,c,d)
+    end_time = time.time()
+    print "EnviaLong8RecebeLong resultou em:",result3,"e rodou em",end_time-start_time
+
 
 if __name__ == "__main__":
     main()
