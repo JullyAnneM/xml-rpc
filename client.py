@@ -26,10 +26,11 @@ def main():
 
     for x in range(0, 20):
 
-        #start_time = time.time()
-        #result0 = client.VoidMetodoSemParametros()
-        #end_time = time.time()
-        #print "VoidMetodoSemParametros resultou em:",result0,"e rodou em",end_time-start_time
+#        start_time = time.time()
+#        client.VoidMetodoSemParametros()
+#        end_time = time.time()
+#        str_result0 = str(end_time-start_time)
+#        file.write("#VoidMetodoSemParametros levou " + str_result0 + " milissegundos\n")
     
         start_time = time.time()
         result1 = client.EnviaIntRecebeInt(valor)

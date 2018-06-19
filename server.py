@@ -4,7 +4,7 @@ import SimpleXMLRPCServer
 
 #Cenario onde nao passamos nenhum argumento para uma funcao Void
 def VoidMetodoSemParametros():
-    print "sem retorno"
+    return None
 
 #Cenario onde passamos um Integer e recebemos um Integer
 def EnviaIntRecebeInt(x):
@@ -28,9 +28,9 @@ def EnviaLong8RecebeLong(x, y, z, w, a, b, c, d):
 #EnviaStringPotencia10RecebeString
 
 def main ():
-    print "Esse eh o server"
     
     server = SimpleXMLRPCServer.SimpleXMLRPCServer(("0.0.0.0", 8080))
+#    server.register_function(VoidMetodoSemParametros)
     server.register_function(EnviaIntRecebeInt)
     server.register_function(EnviaLongRecebeLong)
     server.register_function(EnviaLong8RecebeLong)
