@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import xmlrpclib
+import timeit
 
 def main():
     print "Esse eh o cliente!" 
@@ -19,9 +20,9 @@ def main():
     b = 60 
     c = 70
     d = 85
-    print client.EnviaIntRecebeInt(valor)
-    print client.EnviaLongRecebeLong(x)
-    print client.EnviaLong8RecebeLong(x,y,z,w,a,b,c,d)
+    print "EnviaIntRecebeInt:",client.EnviaIntRecebeInt(valor),"rodou em",timeit(timeit.Timer(EnviaIntRecebeInt(valor))
+    print "EnviaLongRecebeLong:",client.EnviaLongRecebeLong(x),"rodou em",timeit(timeit.Timer(EnviaLongRecebeLong(x))
+    print "EnviaLong8RecebeLong:",client.EnviaLong8RecebeLong(x,y,z,w,a,b,c,d),"rodou em",timeit(timeit.Timer(EnviaLong8RecebeLong(x,y,z,w,a,b,c,d))
 
 if __name__ == "__main__":
     main()
