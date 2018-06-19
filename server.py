@@ -4,7 +4,7 @@ import SimpleXMLRPCServer
 
 #Cenario onde nao passamos nenhum argumento para uma funcao Void
 def VoidMetodoSemParametros():
-    valor = 10 + 20
+    print "sem retorno"
 
 #Cenario onde passamos um Integer e recebemos um Integer
 def EnviaIntRecebeInt(x):
