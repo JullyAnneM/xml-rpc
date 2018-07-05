@@ -1,60 +1,300 @@
-#EnviaIntRecebeInt levou 0.00145411491394 milissegundos
-#EnviaLongRecebeLong levou 0.000661849975586 milissegundos
-#EnviaLong8RecebeLong levou 0.00072193145752 milissegundos
-#EnviaIntRecebeInt levou 0.000629186630249 milissegundos
-#EnviaLongRecebeLong levou 0.000639915466309 milissegundos
-#EnviaLong8RecebeLong levou 0.000689029693604 milissegundos
-#EnviaIntRecebeInt levou 0.00066614151001 milissegundos
-#EnviaLongRecebeLong levou 0.000618934631348 milissegundos
-#EnviaLong8RecebeLong levou 0.000680923461914 milissegundos
-#EnviaIntRecebeInt levou 0.000586032867432 milissegundos
-#EnviaLongRecebeLong levou 0.000586986541748 milissegundos
-#EnviaLong8RecebeLong levou 0.000643968582153 milissegundos
-#EnviaIntRecebeInt levou 0.000584125518799 milissegundos
-#EnviaLongRecebeLong levou 0.000599145889282 milissegundos
-#EnviaLong8RecebeLong levou 0.000674962997437 milissegundos
-#EnviaIntRecebeInt levou 0.000594854354858 milissegundos
-#EnviaLongRecebeLong levou 0.000675916671753 milissegundos
-#EnviaLong8RecebeLong levou 0.000641107559204 milissegundos
-#EnviaIntRecebeInt levou 0.000661849975586 milissegundos
-#EnviaLongRecebeLong levou 0.000569105148315 milissegundos
-#EnviaLong8RecebeLong levou 0.000663995742798 milissegundos
-#EnviaIntRecebeInt levou 0.000586032867432 milissegundos
-#EnviaLongRecebeLong levou 0.000552892684937 milissegundos
-#EnviaLong8RecebeLong levou 0.000626087188721 milissegundos
-#EnviaIntRecebeInt levou 0.000587940216064 milissegundos
-#EnviaLongRecebeLong levou 0.0010929107666 milissegundos
-#EnviaLong8RecebeLong levou 0.00067400932312 milissegundos
-#EnviaIntRecebeInt levou 0.000598907470703 milissegundos
-#EnviaLongRecebeLong levou 0.000746011734009 milissegundos
-#EnviaLong8RecebeLong levou 0.000810146331787 milissegundos
-#EnviaIntRecebeInt levou 0.000768899917603 milissegundos
-#EnviaLongRecebeLong levou 0.000723838806152 milissegundos
-#EnviaLong8RecebeLong levou 0.000661134719849 milissegundos
-#EnviaIntRecebeInt levou 0.000547885894775 milissegundos
-#EnviaLongRecebeLong levou 0.000581026077271 milissegundos
-#EnviaLong8RecebeLong levou 0.000625848770142 milissegundos
-#EnviaIntRecebeInt levou 0.000536918640137 milissegundos
-#EnviaLongRecebeLong levou 0.000662088394165 milissegundos
-#EnviaLong8RecebeLong levou 0.000813007354736 milissegundos
-#EnviaIntRecebeInt levou 0.000717878341675 milissegundos
-#EnviaLongRecebeLong levou 0.000707149505615 milissegundos
-#EnviaLong8RecebeLong levou 0.00099515914917 milissegundos
-#EnviaIntRecebeInt levou 0.000874042510986 milissegundos
-#EnviaLongRecebeLong levou 0.000635147094727 milissegundos
-#EnviaLong8RecebeLong levou 0.000660181045532 milissegundos
-#EnviaIntRecebeInt levou 0.000560998916626 milissegundos
-#EnviaLongRecebeLong levou 0.000559091567993 milissegundos
-#EnviaLong8RecebeLong levou 0.000595808029175 milissegundos
-#EnviaIntRecebeInt levou 0.000569105148315 milissegundos
-#EnviaLongRecebeLong levou 0.000586986541748 milissegundos
-#EnviaLong8RecebeLong levou 0.000638961791992 milissegundos
-#EnviaIntRecebeInt levou 0.000546932220459 milissegundos
-#EnviaLongRecebeLong levou 0.00055193901062 milissegundos
-#EnviaLong8RecebeLong levou 0.000614881515503 milissegundos
-#EnviaIntRecebeInt levou 0.000554084777832 milissegundos
-#EnviaLongRecebeLong levou 0.000550031661987 milissegundos
-#EnviaLong8RecebeLong levou 0.000622034072876 milissegundos
-#EnviaIntRecebeInt levou 0.000578165054321 milissegundos
-#EnviaLongRecebeLong levou 0.00054407119751 milissegundos
-#EnviaLong8RecebeLong levou 0.000627994537354 milissegundos
+#EnviaIntRecebeInt 1.02499985695
+#EnviaLongRecebeLong 1.00699996948
+#EnviaLong8RecebeLong 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00800013542
+#EnviaStringPotencia10RecebeString 1.01499986649
+#EnviaStringPotencia10RecebeString 1.0070002079
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.01099991798
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.01699995995
+#EnviaArrayGiganteRecebeArrayGigante 2.52800011635
+#EnviaArrayGiganteRecebeString 2.53299999237
+#EnviaIntRecebeInt 1.00500011444
+#EnviaLongRecebeLong 1.00699996948
+#EnviaLong8RecebeLong 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00599980354
+#EnviaStringPotencia10RecebeString 1.00599980354
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaArrayGiganteRecebeArrayGigante 2.46900010109
+#EnviaArrayGiganteRecebeString 2.4430000782
+#EnviaIntRecebeInt 1.0039999485
+#EnviaLongRecebeLong 1.00600004196
+#EnviaLong8RecebeLong 1.00600004196
+#EnviaStringPotencia10RecebeString 1.0070002079
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.007999897
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00900006294
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaArrayGiganteRecebeArrayGigante 2.50999999046
+#EnviaArrayGiganteRecebeString 2.50900006294
+#EnviaIntRecebeInt 1.00600004196
+#EnviaLongRecebeLong 1.00699996948
+#EnviaLong8RecebeLong 1.00600004196
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaArrayGiganteRecebeArrayGigante 2.49000000954
+#EnviaArrayGiganteRecebeString 2.45700001717
+#EnviaIntRecebeInt 1.00499987602
+#EnviaLongRecebeLong 1.00600004196
+#EnviaLong8RecebeLong 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00800013542
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaArrayGiganteRecebeArrayGigante 2.44799995422
+#EnviaArrayGiganteRecebeString 2.4849998951
+#EnviaIntRecebeInt 1.00699996948
+#EnviaLongRecebeLong 1.00999999046
+#EnviaLong8RecebeLong 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaArrayGiganteRecebeArrayGigante 2.45499992371
+#EnviaArrayGiganteRecebeString 2.47900009155
+#EnviaIntRecebeInt 1.00500011444
+#EnviaLongRecebeLong 1.00599980354
+#EnviaLong8RecebeLong 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.007999897
+#EnviaStringPotencia10RecebeString 1.00800013542
+#EnviaStringPotencia10RecebeString 1.007999897
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00900006294
+#EnviaArrayGiganteRecebeArrayGigante 2.55599999428
+#EnviaArrayGiganteRecebeString 2.65100002289
+#EnviaIntRecebeInt 1.00600004196
+#EnviaLongRecebeLong 1.01399993896
+#EnviaLong8RecebeLong 1.02100014687
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.01399993896
+#EnviaStringPotencia10RecebeString 1.01399993896
+#EnviaStringPotencia10RecebeString 1.0150001049
+#EnviaStringPotencia10RecebeString 1.0110001564
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.007999897
+#EnviaStringPotencia10RecebeString 1.0070002079
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaArrayGiganteRecebeArrayGigante 2.6400001049
+#EnviaArrayGiganteRecebeString 2.59399986267
+#EnviaIntRecebeInt 1.01200008392
+#EnviaLongRecebeLong 1.01499986649
+#EnviaLong8RecebeLong 1.01900005341
+#EnviaStringPotencia10RecebeString 1.01699995995
+#EnviaStringPotencia10RecebeString 1.02600002289
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.00900006294
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.0110001564
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.007999897
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaArrayGiganteRecebeArrayGigante 2.53299999237
+#EnviaArrayGiganteRecebeString 2.68800020218
+#EnviaIntRecebeInt 1.01200008392
+#EnviaLongRecebeLong 1.01600003242
+#EnviaLong8RecebeLong 1.00899982452
+#EnviaStringPotencia10RecebeString 1.01399993896
+#EnviaStringPotencia10RecebeString 1.0150001049
+#EnviaStringPotencia10RecebeString 1.00800013542
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.0150001049
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.01400017738
+#EnviaStringPotencia10RecebeString 1.01699995995
+#EnviaStringPotencia10RecebeString 1.00800013542
+#EnviaStringPotencia10RecebeString 1.01099991798
+#EnviaArrayGiganteRecebeArrayGigante 2.6289999485
+#EnviaArrayGiganteRecebeString 2.42100000381
+#EnviaIntRecebeInt 1.00600004196
+#EnviaLongRecebeLong 1.0150001049
+#EnviaLong8RecebeLong 1.007999897
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.01499986649
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.01200008392
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.00900006294
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.0150001049
+#EnviaStringPotencia10RecebeString 1.00900006294
+#EnviaArrayGiganteRecebeArrayGigante 2.58299994469
+#EnviaArrayGiganteRecebeString 2.70399999619
+#EnviaIntRecebeInt 1.0039999485
+#EnviaLongRecebeLong 1.00600004196
+#EnviaLong8RecebeLong 1.00999999046
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.01099991798
+#EnviaStringPotencia10RecebeString 1.0150001049
+#EnviaStringPotencia10RecebeString 1.01399993896
+#EnviaStringPotencia10RecebeString 1.01399993896
+#EnviaStringPotencia10RecebeString 1.01399993896
+#EnviaStringPotencia10RecebeString 1.01399993896
+#EnviaArrayGiganteRecebeArrayGigante 2.57299995422
+#EnviaArrayGiganteRecebeString 2.42899990082
+#EnviaIntRecebeInt 1.0119998455
+#EnviaLongRecebeLong 1.00800013542
+#EnviaLong8RecebeLong 1.00900006294
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.007999897
+#EnviaStringPotencia10RecebeString 1.01200008392
+#EnviaStringPotencia10RecebeString 1.01499986649
+#EnviaStringPotencia10RecebeString 1.01400017738
+#EnviaStringPotencia10RecebeString 1.01200008392
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.01400017738
+#EnviaArrayGiganteRecebeArrayGigante 2.58800005913
+#EnviaArrayGiganteRecebeString 2.72199988365
+#EnviaIntRecebeInt 1.01200008392
+#EnviaLongRecebeLong 1.01499986649
+#EnviaLong8RecebeLong 1.01400017738
+#EnviaStringPotencia10RecebeString 1.01499986649
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.01400017738
+#EnviaStringPotencia10RecebeString 1.00900006294
+#EnviaStringPotencia10RecebeString 1.0119998455
+#EnviaStringPotencia10RecebeString 1.01299977303
+#EnviaStringPotencia10RecebeString 1.0150001049
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.01399993896
+#EnviaArrayGiganteRecebeArrayGigante 2.4960000515
+#EnviaArrayGiganteRecebeString 3.37099981308
+#EnviaIntRecebeInt 1.01099991798
+#EnviaLongRecebeLong 1.01099991798
+#EnviaLong8RecebeLong 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00599980354
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaArrayGiganteRecebeArrayGigante 2.46100020409
+#EnviaArrayGiganteRecebeString 2.46200013161
+#EnviaIntRecebeInt 1.00600004196
+#EnviaLongRecebeLong 1.00600004196
+#EnviaLong8RecebeLong 1.01499986649
+#EnviaStringPotencia10RecebeString 1.01599979401
+#EnviaStringPotencia10RecebeString 1.0070002079
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.02900004387
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.01399993896
+#EnviaArrayGiganteRecebeArrayGigante 2.79500007629
+#EnviaArrayGiganteRecebeString 2.78499984741
+#EnviaIntRecebeInt 1.00699996948
+#EnviaLongRecebeLong 1.0039999485
+#EnviaLong8RecebeLong 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.01600003242
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.00900006294
+#EnviaStringPotencia10RecebeString 1.01499986649
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.01400017738
+#EnviaArrayGiganteRecebeArrayGigante 2.53600001335
+#EnviaArrayGiganteRecebeString 2.54399991035
+#EnviaIntRecebeInt 1.00599980354
+#EnviaLongRecebeLong 1.0070002079
+#EnviaLong8RecebeLong 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00900006294
+#EnviaStringPotencia10RecebeString 1.01300001144
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00999999046
+#EnviaStringPotencia10RecebeString 1.00800013542
+#EnviaStringPotencia10RecebeString 1.007999897
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaArrayGiganteRecebeArrayGigante 2.78900003433
+#EnviaArrayGiganteRecebeString 2.67599987984
+#EnviaIntRecebeInt 1.00800013542
+#EnviaLongRecebeLong 1.00600004196
+#EnviaLong8RecebeLong 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00499987602
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00900006294
+#EnviaStringPotencia10RecebeString 1.007999897
+#EnviaArrayGiganteRecebeArrayGigante 2.52600002289
+#EnviaArrayGiganteRecebeString 2.52499985695
+#EnviaIntRecebeInt 1.00599980354
+#EnviaLongRecebeLong 1.00600004196
+#EnviaLong8RecebeLong 1.00800013542
+#EnviaStringPotencia10RecebeString 1.007999897
+#EnviaStringPotencia10RecebeString 1.00800013542
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.0039999485
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaStringPotencia10RecebeString 1.00500011444
+#EnviaStringPotencia10RecebeString 1.00699996948
+#EnviaStringPotencia10RecebeString 1.00600004196
+#EnviaArrayGiganteRecebeArrayGigante 2.53699994087
+#EnviaArrayGiganteRecebeString 2.51900005341
