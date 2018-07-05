@@ -57,7 +57,6 @@ def main():
         
         while (i <= 100):
             x = _criaStringPotenciaDe10(i)
-            print x
             start_time = time.time()
             result3 = client.EnviaStringPotencia10RecebeString(x)
             end_time = time.time()
