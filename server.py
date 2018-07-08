@@ -33,7 +33,7 @@ def EnviaArrayIntRecebeArray(dicionario):
 
 def main ():
     
-    server = SimpleXMLRPCServer.SimpleXMLRPCServer(("0.0.0.0", 8080))
+    server = SimpleXMLRPCServer.SimpleXMLRPCServer(("192.168.1.34", 8000))
     server.register_function(EnviaIntRecebeInt)
     server.register_function(EnviaLongRecebeLong)
     server.register_function(EnviaLong8RecebeLong)

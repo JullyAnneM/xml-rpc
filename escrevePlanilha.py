@@ -2,14 +2,14 @@ import xlsxwriter
 
 
 def main():
-    workbook = xlsxwriter.Workbook('dados_XML-RPC.xlsx')
+    workbook = xlsxwriter.Workbook('dados_gRPC.xlsx')
     worksheet = workbook.add_worksheet()
 
-    arq = open('tempos_XML-RPC.txt', 'r')
+    arq = open('tempos_gRPC.txt',  'r')
     texto = arq.readlines()
     inicializaWorksheet(texto, worksheet)
     row = 0
-    col = 0    
+    col = 0
     
     for linha in texto :
         if(row%21 == 0):

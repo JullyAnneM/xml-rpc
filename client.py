@@ -6,7 +6,7 @@ import math
 
 def main():
 
-    client = xmlrpclib.ServerProxy("http://localhost:8080")
+    client = xmlrpclib.ServerProxy("http://192.168.1.35:8000")
     
     #variavel para metodo EnviaIntRecebeInt
     valor = int(10)
